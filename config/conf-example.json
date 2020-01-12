@@ -1,0 +1,6 @@
+{
+    "port": 3001,
+    "jwtSecret": "secret string",
+    "mongoUri": "mongodb+srv://<login>:<password>@<cluster>.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3001"
+}
